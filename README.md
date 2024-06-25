@@ -1,1 +1,3 @@
-[![Codewars](https://github.r2v.ch/codewars?user=sukhrobyangibaev&name=true&theme=nightowl&hide_clan=true)](https://www.codewars.com/users/sukhrobyangibaev)
+<!-- [![Codewars](https://github.r2v.ch/codewars?user=sukhrobyangibaev&name=true&theme=nightowl&hide_clan=true)](https://www.codewars.com/users/sukhrobyangibaev) -->
+
+[![Codewars](68747470733a2f2f6769746875622e7232762e63682f636f6465776172733f757365723d73756b68726f6279616e676962616576266e616d653d74727565267468656d653d6e696768746f776c26686964655f636c616e3d74727565.svg)](https://www.codewars.com/users/sukhrobyangibaev)
